@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2065
     wikipedia: http://en.wikipedia.org/wiki/Colette
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43475#Les-heures-longues1914---1917
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2013-08-15'
 gutenberg_type: Text

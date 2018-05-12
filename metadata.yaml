@@ -1,0 +1,33 @@
+_repo: Les-heures-longues1914---1917_43475
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Colette
+    aliases:
+    - Colette, Sidonie Gabrielle
+    - Gauthier-Villars, Henry, Mme
+    - Jouvenel, Gabrielle Claudine Colette de
+    - Willy, Colette
+    birthdate: 1873
+    deathdate: 1954
+    gutenberg_agent_id: '2065'
+    url: http://www.gutenberg.org/2009/agents/2065
+    wikipedia: http://en.wikipedia.org/wiki/Colette
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2013-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43475'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Personal narratives'
+- !lcc 'D501'
+title: Les heures longues, 1914-1917
+url: http://www.gutenberg.org/ebooks/43475
